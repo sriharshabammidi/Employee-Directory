@@ -1,0 +1,14 @@
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\bin\Debug\netstandard2.0\EmployeeDirectory.BAL.deps.json
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\bin\Debug\netstandard2.0\EmployeeDirectory.BAL.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\bin\Debug\netstandard2.0\EmployeeDirectory.BAL.pdb
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\obj\Debug\netstandard2.0\EmployeeDirectory.BAL.csprojAssemblyReference.cache
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\obj\Debug\netstandard2.0\EmployeeDirectory.BAL.AssemblyInfoInputs.cache
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\obj\Debug\netstandard2.0\EmployeeDirectory.BAL.AssemblyInfo.cs
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\obj\Debug\netstandard2.0\EmployeeDirectory.BAL.csproj.CoreCompileInputs.cache
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\obj\Debug\netstandard2.0\EmployeeDirectory.BAL.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\obj\Debug\netstandard2.0\EmployeeDirectory.BAL.pdb
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\bin\Debug\netstandard2.0\EmployeeDirectory.Models.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\bin\Debug\netstandard2.0\EmployeeDirectory.Models.pdb
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\obj\Debug\netstandard2.0\EmployeeDirectory.BAL.csproj.CopyComplete
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\bin\Debug\netstandard2.0\EmployeeDirectory.DAL.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirectory.BAL\bin\Debug\netstandard2.0\EmployeeDirectory.DAL.pdb

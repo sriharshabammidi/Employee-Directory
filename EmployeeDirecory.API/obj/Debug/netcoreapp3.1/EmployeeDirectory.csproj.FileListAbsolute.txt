@@ -1,0 +1,87 @@
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.exe
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.csprojAssemblyReference.cache
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.AssemblyInfoInputs.cache
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.AssemblyInfo.cs
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.RazorTargetAssemblyInfo.cache
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeDirectory.StaticWebAssets.Manifest.cache
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeDirectory.StaticWebAssets.xml
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.csproj.CopyComplete
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.deps.json
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.runtimeconfig.json
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.runtimeconfig.dev.json
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.dll
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.pdb
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.csproj.CoreCompileInputs.cache
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.dll
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.pdb
+D:\DotNetCore\Test Project for Deployment\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.genruntimeconfig.cache
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.exe
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.deps.json
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.runtimeconfig.json
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.runtimeconfig.dev.json
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.dll
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\EmployeeDirectory.pdb
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Practice\Web\EmployeeDirectory\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.csprojAssemblyReference.cache
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.AssemblyInfoInputs.cache
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.AssemblyInfo.cs
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.csproj.CoreCompileInputs.cache
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.RazorTargetAssemblyInfo.cache
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.csproj.CopyComplete
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeDirectory.StaticWebAssets.Manifest.cache
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeDirectory.StaticWebAssets.xml
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.dll
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.pdb
+D:\Practice\Web\EmployeeDirectory\obj\Debug\netcoreapp3.1\EmployeeDirectory.genruntimeconfig.cache
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\EmployeeDirectory.exe
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\EmployeeDirectory.deps.json
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\EmployeeDirectory.runtimeconfig.json
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\EmployeeDirectory.runtimeconfig.dev.json
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\EmployeeDirectory.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\EmployeeDirectory.pdb
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\EmployeeDirectory.csprojAssemblyReference.cache
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\EmployeeDirectory.AssemblyInfoInputs.cache
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\EmployeeDirectory.AssemblyInfo.cs
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\EmployeeDirectory.csproj.CoreCompileInputs.cache
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\EmployeeDirectory.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\EmployeeDirectory.RazorTargetAssemblyInfo.cache
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\EmployeeDirectory.csproj.CopyComplete
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeDirectory.StaticWebAssets.Manifest.cache
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeDirectory.StaticWebAssets.xml
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\EmployeeDirectory.dll
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\EmployeeDirectory.pdb
+D:\Practice\Web\EmployeeDirectory\EmployeeDirecory.API\obj\Debug\netcoreapp3.1\EmployeeDirectory.genruntimeconfig.cache
